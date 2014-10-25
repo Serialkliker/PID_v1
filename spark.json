@@ -1,8 +1,7 @@
 {
   "name": "PID_v1",
   "author": "Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com",
-  "license": "GPLv3",
-  "version": "1.1.0",
-  "description": "or an ultra-detailed explanation of why the code is the way it is, please visit: 
-   http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/"
+  "license": "BSD License",
+  "version": "1",
+  "description": "PIDLib"
 }
